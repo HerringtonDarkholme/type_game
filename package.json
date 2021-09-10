@@ -1,0 +1,22 @@
+{
+  "name": "type_game",
+  "version": "1.0.0",
+  "description": "```ts import { start } from './game'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HerringtonDarkholme/type_game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HerringtonDarkholme/type_game/issues"
+  },
+  "homepage": "https://github.com/HerringtonDarkholme/type_game#readme",
+  "dependencies": {
+    "typescript": "^4.4.2"
+  }
+}

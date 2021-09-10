@@ -1,10 +1,10 @@
-import { start } from './game' 
+import { start } from './game'
 
 start
-.选择关卡
-.第_6_关
-.选择渲染模式
-['多行渲染_按[``]调用']
+.chooseStage
+.stage6
+.chooseRenderMode
+['multiLine: Press [``] to render']
 [`
 💭💭💭💼💼💼💼💼💼💼💭💭💭
 💼💼💼💼💭💭💭💭💭💼💭💭💭

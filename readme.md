@@ -1,12 +1,22 @@
-### 
+# Dungeon Game in Pure TypeScript Type System
+
+A game implemented in pure compile time, pushing TypeScript's limit one step further.
+
+Originally designed by [@fc01](https://github.com/fc01). This is a translated version for English readers.
+NPM and stackblitz setup are also added.
+
+[Try it out](https://stackblitz.com/github/HerringtonDarkholme/type_game/).
+
+### DEMO
+
 ```ts
-import { start } from './game' 
+import { start } from './game'
 
 start
-.选择关卡
-.第_6_关
-.选择渲染模式
-['多行渲染_按[``]调用']
+.chooseStage
+.stage6
+.chooseRenderMode
+['multiLine: Press [``] to render']
 [`
 💭💭💭💼💼💼💼💼💼💼💭💭💭
 💼💼💼💼💭💭💭💭💭💼💭💭💭
