@@ -5,7 +5,7 @@ A game implemented in pure compile time, pushing TypeScript's limit one step fur
 Originally designed by [@fc01](https://github.com/fc01). This is a translated version for English readers.
 NPM and stackblitz setup are also added.
 
-[Try it out](https://stackblitz.com/github/HerringtonDarkholme/type_game/).
+[Try it out](https://stackblitz.com/github/HerringtonDarkholme/type_game?file=src%2Findex.ts).
 
 ### DEMO
 
