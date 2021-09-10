@@ -1,12 +1,16 @@
 # Dungeon Game in Pure TypeScript Type System
 
-A game implemented in pure compile time, pushing TypeScript's limit one step further.
+> #### *Github Copilot: Wanna suggestions for whole functions?*
+>
+> #### *TypeScript Compiler: Hold My Beer 🍺*
 
-Originally designed by [@fc01](https://github.com/fc01). This is a translated version for English readers.
+A dungeon like game implemented in pure compile time, pushing TypeScript's limit one step further.
+
+[Originally](https://github.com/fc01/type_game) designed by [@fc01](https://github.com/fc01). This is a translated version for English readers.
 NPM and stackblitz setup are also added.
 
 [Trying it out in stackblitz](https://stackblitz.com/github/HerringtonDarkholme/type_game?file=src%2Findex.ts) does not quite work.
-Using [Github Codespace](https://docs.github.com/en/codespaces/getting-started/quickstart) is the recommended way.
+Using [Github Codespaces](https://docs.github.com/en/codespaces/getting-started/quickstart) is the recommended way.
 
 ### DEMO
 
